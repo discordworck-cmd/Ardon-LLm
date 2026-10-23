@@ -1,0 +1,27 @@
+Свойство Ardon позволяют обучать модель всего да один проход!
+используйте это что бы даже на CPU создовать, текст, музыку и другое.
+
+этапы:
+Готовый код для обучения модели. Нужно только:
+
+1. Вставить ключь 
+2. Создать папку "my_data"
+3. Скачать книг на 100мб для начала, закинуть в папку.
+4. Запустить Ardon_train.py
+5. Запустить Ardon_Chat.py
+
+Обучение около 4 часов на CPU. На GPU 1 час
+
+Ardon’s unique properties allow you to train a model in just a single pass!
+Use this to generate text, music, and more—even when running on a CPU.
+
+Steps:
+Everything you need to train the model is provided. Simply:
+
+1. Insert your key.
+2. Create a folder named "my_data".
+3. Download about 100 MB worth of books and place them into that folder.
+4. Run `Ardon_train.py`.
+5. Run `Ardon_Chat.py`.
+
+Training takes approximately 4 hours on a CPU, or 1 hour on a GPU.
